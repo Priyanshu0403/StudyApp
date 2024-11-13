@@ -1,2 +1,2 @@
 sub = 1-2
-print(sub)
+print("Substraction is",sub)
