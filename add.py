@@ -1,1 +1,2 @@
-print("Hello WOrzcvxv.mcxv.c.,x.xcmv.,mld")
+sum = 1+2
+print("Sum is :",sum)
