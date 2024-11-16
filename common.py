@@ -1,0 +1,1 @@
+print("This is study2 clone of StudyApp")
